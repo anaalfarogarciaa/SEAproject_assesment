@@ -5,7 +5,6 @@ Having some experience with web dev, I implemented:
 - an about the business section
 - images describing the items
 - a CSS file for styling
-- a HTML button
 - a nav menu + multiple pages
 
 Note: the webpage is unoffical and all credit is given to the owners!
