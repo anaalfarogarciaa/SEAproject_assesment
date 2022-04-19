@@ -1,0 +1,105 @@
+* {
+  font-family: 'Kaisei Decol', serif;
+}
+
+.homeImageSec{
+  display: flex;
+  justify-content: center;
+}
+
+figcaption{
+  text-align: center;
+}
+
+.name {
+  font-size: 28px;
+}
+
+.topNav {
+  background-color: #8D8741;
+  text-align: right;
+  padding: 15px;
+}
+
+.topNav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: #FBEEC1;
+  padding: 10px;
+}
+
+header{
+  text-align: center;
+}
+
+
+.homeText {
+  text-align: center;
+  margin: auto 0; 
+}
+
+.homeImage {
+  margin: 10px;
+  border-radius: 100px;
+  max-width: 370px;
+}
+
+img{
+  max-width: 370px;
+}
+
+.footer {
+  background-color: #8D8741;
+  padding: 10px;
+}
+
+.contactForm{
+  margin: auto;
+  width: 50%;
+}
+
+#footerText {
+  color: #FBEEC1;
+  text-align: center;
+  font-size: 15px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+table, td, th {
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  
+}
+
+td {
+  font-size: 15px;
+  background-color: rgb(86, 159, 201);
+}
+
+th {
+  color: rgb(0, 57, 131);
+  font-size: 25px;
+}
+
+th, td {
+  text-align: left;
+  padding: 15px;
+}
+
+#common {
+  color: rgb(0, 71, 179);
+  text-align: center;
+  font-size: 25px;
+}
+#items {
+  display: table;
+  margin: 0 auto;
+}
